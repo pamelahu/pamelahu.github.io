@@ -13,28 +13,8 @@ $(document).ready(function() {
 	      }, 300);
 
 	})
-	  });
 
-// ADD ITEM TO BAG POPUP
 
-	// $('#bag-section').click(function(){
-
-	//     if ($(this).hasClass('button-active')) {
-	      
-	//       $('body').removeClass('no-scroll')
-	//       $('.sidebar-container').removeClass('sidebar-active')
-	//       $('.page-wrapper').removeClass('wrapper-active')
-
-	//     } else {
-	      
-	//       setTimeout(function() {
-	//       $('body').addClass('no-scroll');
-	//       }, 300);
-	//       $('.sidebar-container').addClass('sidebar-active')
-	//       $('.page-wrapper').addClass('wrapper-active')
-	     
-	//     }
-	//   });
 
 	$('#carousel-next').click(function(){
 
