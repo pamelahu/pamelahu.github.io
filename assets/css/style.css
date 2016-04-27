@@ -215,7 +215,7 @@ a:hover {
 
 .image-container img {
 	width: 275px;
-	margin-bottom: 10px;
+	/*margin-bottom: 10px;*/
 }
 
 .image-description {
@@ -223,8 +223,16 @@ a:hover {
 	font-family: 'Lato', sans-serif;
 }
 
-.section {
-	margin-bottom: 100px;
+#tops-section {
+	margin: 100px;
+}
+
+#bottoms-section {
+	margin: 100px;
+}
+
+#shoes-section {
+	margin: 100px;
 }
 
 
