@@ -209,6 +209,7 @@ a:hover {
 .image-container {
 	float: left;
 	width: 25%;
+	/*margin: 10px;*/
 	margin-bottom: 60px;
 
 }
